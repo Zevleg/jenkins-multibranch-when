@@ -22,7 +22,7 @@ pipeline {
                 branch 'test'
             }
             steps {
-                echo 'Running tests for Test branch...'
+                echo 'Running tests for Test branch from webhook...'
                
             }
         }        
