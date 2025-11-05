@@ -11,7 +11,7 @@ pipeline {
                 branch 'devel'
             }
             steps {
-                echo 'Deploying to development environment...'
+                echo 'Deploying to development2 environment...'
                 // Simulated deployment step
                 echo 'Deployed to Development successfully.'
             }
